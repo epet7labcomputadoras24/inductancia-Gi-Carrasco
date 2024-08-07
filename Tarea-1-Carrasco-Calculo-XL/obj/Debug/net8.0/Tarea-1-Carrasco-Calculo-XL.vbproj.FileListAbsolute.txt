@@ -1,0 +1,15 @@
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\bin\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.exe
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\bin\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.deps.json
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\bin\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.runtimeconfig.json
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\bin\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.dll
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\bin\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.pdb
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.AssemblyInfoInputs.cache
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.AssemblyInfo.vb
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.vbproj.CoreCompileInputs.cache
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.sourcelink.json
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.dll
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\refint\Tarea-1-Carrasco-Calculo-XL.dll
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.pdb
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\Tarea-1-Carrasco-Calculo-XL.genruntimeconfig.cache
+C:\Laboratorio de Computadoras\Tarea-1-Carrasco-Calculo-XL\obj\Debug\net8.0\ref\Tarea-1-Carrasco-Calculo-XL.dll
